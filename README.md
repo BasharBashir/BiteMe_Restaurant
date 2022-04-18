@@ -11,9 +11,9 @@ However, Bussiness users which is identified by the company they work in and the
 
 Restaurant managers can modify/update/add their restaurant menu. Each restaurant is located in the North, Center or South.
 
-The system has 3 Brach managers for each district. Branch manager for the North, Branch manager for the Center and Branch manager for the South.
+The system has 3 Branch managers for each district. Branch manager for the North, Branch manager for the Center and Branch manager for the South.
 
-Brach managers receive automatically by the system different reports each month, number of orders for each restaurant, income for each restaurant and delays of delivery. Reports are calculated by statistics. Brach managers sends the reports to the CEO in pdf format, the CEO can perform comparison between different reports to decide for future changes in the system.
+Branch managers receive automatically by the system different reports each month, number of orders for each restaurant, income for each restaurant and delays of delivery. Reports are calculated by statistics. Branch managers sends the reports to the CEO in pdf format, the CEO can perform comparison between different reports to decide for future changes in the system.
 
 Orders made by the users are received by restaurants, restaurant accepts that he received his client order and it is getting processed. When the order is ready the restaurant notifies the client that his order is ready and that he can self-pick or that his delivery is on it's way.
 
